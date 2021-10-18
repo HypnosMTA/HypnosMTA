@@ -1,0 +1,5 @@
+<meta>
+	<info author="Hypnos" version="0.2" type="script" name="ders2" />
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client"/>
+</meta>
